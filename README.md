@@ -1,5 +1,5 @@
   <h3> Hello there 👋</h3>
-  <p>Me chamo Arthur Moreno sou desenvolvedor front end, de Fortaleza - Ceara Brasil</p>
+  <p>Me chamo Arthur Moreno sou desenvolvedor full stack, de Fortaleza - Ceara Brasil</p>
 
 
 
